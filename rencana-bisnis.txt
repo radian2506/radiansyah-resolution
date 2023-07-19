@@ -1,5 +1,6 @@
 RENCANA BISNIS
-- fokus pada bisnis dropshipping pempek 
+- fokus pada bisnis dropshipping pempek
+  * menggunakan pengiriman jne dengan harga fix
 - pempek 1182 untuk pempek ikan
-- pempek dos 
 - start bisnis croffle
+  * menggunakan silverqueen matcha leleh
