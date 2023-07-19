@@ -3,3 +3,5 @@ RENCANA BISNIS
 - pempek 1182 untuk pempek ikan
 - pempek dos 
 - start bisnis croffle
+  * menggunakan silverqueen yang dilelehkan
+- membuat bisnis coffee shop 
