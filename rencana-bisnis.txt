@@ -3,4 +3,6 @@ RENCANA BISNIS
   * menggunakan pengiriman jne dengan harga fix
 - pempek 1182 untuk pempek ikan
 - start bisnis croffle
-  * menggunakan silverqueen matcha leleh
+  * menggunakan silverqueen yang dilelehkan
+- membuat bisnis coffee shop 
+  * menggunakan konsep seperti sbux
